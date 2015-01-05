@@ -19,7 +19,7 @@ var deck = [
   {color:1, num:2}, {color:1, num:2},
   {color:1, num:3}, {color:1, num:3},
   {color:1, num:4}, {color:1, num:4},
-  {color:1, num:5}/*,
+  {color:1, num:5},
   {color:2, num:1}, {color:2, num:1}, {color:2, num:1}, 
   {color:2, num:2}, {color:2, num:2},
   {color:2, num:3}, {color:2, num:3},
@@ -34,7 +34,7 @@ var deck = [
   {color:4, num:2}, {color:4, num:2},
   {color:4, num:3}, {color:4, num:3},
   {color:4, num:4}, {color:4, num:4},
-  {color:4, num:5}*/
+  {color:4, num:5}
 ]
 
 var currentGame = null
